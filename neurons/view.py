@@ -1,5 +1,6 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 
 
-def hello(req):
-    return HttpResponse("Hello world ! ")
+def hello(request):
+    context = {'hello': 'Hello World!', 'aa': '11'}
+    return render(request, 'top_page/top_page.html', context)
