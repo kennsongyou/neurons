@@ -22,3 +22,4 @@ from . import view
 urlpatterns = [
     url(r'^$', view.hello),
 ]
+
