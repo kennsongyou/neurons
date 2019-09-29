@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dac1e74-e802-49e6-8363-01b407c53535" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/top_page/top_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top_page/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top_page/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top_page/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top_page/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top_page/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top_page/views.py" afterDir="false" />
+    <list default="true" id="2dac1e74-e802-49e6-8363-01b407c53535" name="Default Changelist" comment="11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neurons/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/neurons/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neurons/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/neurons/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/top_page/top_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/top_page/top_page.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,22 +12,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1QSdmYz0EJLrhdEBnwlKDppVOkf" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css/common/bootstrap-4.3.1" />
+    <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\neurons\static\css\common\bootstrap-4.3.1" />
+      <recent name="C:\projects\neurons\static\js\common\bootstrap" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,8 +93,20 @@
       <updated>1567768090282</updated>
       <workItem from="1567768091452" duration="1524000" />
       <workItem from="1568031091772" duration="1474000" />
-      <workItem from="1568033613218" duration="1967000" />
+      <workItem from="1568033613218" duration="2022000" />
+      <workItem from="1568204881293" duration="929000" />
+      <workItem from="1569245189255" duration="529000" />
+      <workItem from="1569641224239" duration="1799000" />
+      <workItem from="1569729218327" duration="3516000" />
     </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1568035631536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568035631536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
 </project>
