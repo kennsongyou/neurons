@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dac1e74-e802-49e6-8363-01b407c53535" name="Default Changelist" comment="11">
+    <list default="true" id="2dac1e74-e802-49e6-8363-01b407c53535" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neurons/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/neurons/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/top_page/top_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/top_page/top_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neurons/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/neurons/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/top_page/top_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/top-page/top-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_page/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/top-page/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_page/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/top-page/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_page/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/top-page/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_page/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/top-page/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_page/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/top-page/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_page/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/top-page/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_page/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/top-page/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +43,9 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css/common/bootstrap-4.3.1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
   </component>
   <component name="RecentsManager">
@@ -97,7 +108,9 @@
       <workItem from="1568204881293" duration="929000" />
       <workItem from="1569245189255" duration="529000" />
       <workItem from="1569641224239" duration="1799000" />
-      <workItem from="1569729218327" duration="3516000" />
+      <workItem from="1569729218327" duration="13256000" />
+      <workItem from="1569846376570" duration="7368000" />
+      <workItem from="1570251947166" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1568035631536</created>
@@ -106,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568035631536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="11">
+      <created>1569732863698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569732863698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
